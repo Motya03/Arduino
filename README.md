@@ -23,9 +23,9 @@ Este proyecto esta inspirado en el concepto del juego Lucha de Brazos Electronic
 | Fecha | Trabajo realizado | Problemas / Decisiones |
 |--------|----------------------|-------------------------------|
 | 14/11/2025 | Primera version del circuito en Tinkercad. Encendido basico de LEDs. 
-| 17/11/2025 | Implementacion logica del juego y movimiento de LED | Delay hacia el juego lento |
-| 18/11/2025 | Migracion a interrupciones con `attachInterrupt()` | Error con `IRAM_ATTR` a eliminado para compatibilidad con UNO |
-| 19/11/2025 | Reduccion de `delay` y debounce a 50 ms. | Respuesta inmediata  |
+| 17/11/2025 | Implementacion logica del juego y movimiento de LED | Delay hacia el juego lento.Migracion a interrupciones con `attachInterrupt()`. Error con `IRAM_ATTR` a eliminado para compatibilidad con UNO|
+| 18/11/2025 | Desarollo juego en Unity |
+| 19/11/2025 | Desarollo juego en Unity |
 | 25/11/2025 | Capturas, documentacion y estructura del repo | Preparacion para entrega |
 
 
@@ -39,6 +39,8 @@ Este proyecto esta inspirado en el concepto del juego Lucha de Brazos Electronic
 - [ ] Montar en fisico y posterior utilizacion en unity
 - [ ] Modos de juego y aumento de velocidad progresivo
 - [ ] Sonidos personalizados
+- [ ] Conectar con Unity
+
 
 
 
@@ -46,5 +48,7 @@ Este proyecto esta inspirado en el concepto del juego Lucha de Brazos Electronic
 Circuito con Arduino, 10 LEDs y 4 pulsadores.
 *Capturas disponibles en `/Capturas`
 *Codigo disponible en `/Codigos`
+*Codigo disponible en `/Enlace Tinkercard`
+
 
 
