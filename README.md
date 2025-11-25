@@ -3,8 +3,8 @@ ProyectoClickerGameArduino
 #  Juego de Pulso con Arduino - Tinkercad
 
 ## Objetivo del proyecto
-Este proyecto se inspira en el concepto del juego Lucha de Brazos Electrónica, donde dos jugadores compiten pulsando botones para empujar una luz hacia el lado contrario. El objetivo es crear un minijuego fisico utilizando arduino, y hacer posible que se utilize dentro del juego de Unity Smack That Rooster, en el que el primero que logra mover la luz hasta el lado opuesto se corona como ganador.
-
+Este proyecto se inspira en el concepto del juego Lucha de Brazos Electrónica, donde dos jugadores compiten pulsando botones para empujar una luz hacia el lado contrario. El objetivo es crear un minijuego fisico utilizando arduino donde dos jugadores aprietan un boton distinto y se encienden los leds en el que el primero que logra mover la luz hasta el lado opuesto se corona como ganador.
+ , y hacer posible que se utilize dentro del juego de Unity Smack That Rooster.
 
 
 
