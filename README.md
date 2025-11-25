@@ -48,7 +48,7 @@ Este proyecto esta inspirado en el concepto del juego Lucha de Brazos Electronic
 Circuito con Arduino, 10 LEDs y 4 pulsadores.
 *Capturas disponibles en `/Capturas`
 *Codigo disponible en `/Codigos`
-*Codigo disponible en `/Enlace Tinkercard`
+*Enlace Proyecto en `/Enlace Tinkercard`
 
 
 
